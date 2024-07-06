@@ -1,4 +1,4 @@
-Task: Secure FastApi Python Integrated with MYSQL
+Task: Secure FastApi Integrated with MYSQL
 
 Prerequisites
 
