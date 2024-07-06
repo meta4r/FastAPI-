@@ -1,4 +1,4 @@
-Task411: Secure REST API with Database Integration
+Task: Secure REST API with Database Integration
 
 Prerequisites
 
