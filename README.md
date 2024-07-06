@@ -19,9 +19,9 @@ or
 
 > uvicorn app.main:app --reload
 
-Running Tests
+Running Test(s)
 
-To run the tests, use the following command:
+To run the test(s), use the following command:
 
 
 > python -m pytest test/test.py
