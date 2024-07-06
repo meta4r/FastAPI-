@@ -1,38 +1,43 @@
 Task411: Secure REST API with Database Integration
-
-
 Prerequisites
+
     Python 3.7 or higher
     MySQL server running
 
+Install Dependencies
 
-Install dependencies:
-    pip install -r requirements.txt
+sh
 
+pip install -r requirements.txt
 
 Running the Application
+
 To run the application, use the following command:
-Run the run.py 
-or 
+
+python run.py
+
+or
+
 uvicorn app.main:app --reload
 
 
-Running Test(s)
-use the following command:
-python -m pytest test/test.py
+Running Tests
 
+To run tests, use the following command:
+
+sh
+
+python -m pytest test/test.py
 
 Test Results:
 
-![teeeeest](https://github.com/meta4r/Task411/assets/123734096/5505bff6-f73d-4ff1-86ad-ef8759e681a7)
+teeeeest
 
+Time Estimates
 
+    Reading Documentation & Coding: 1 hour 45 minutes
+    Debugging: 2 hours 30 minutes
 
-Estimate time for Reading Documentation & Coding: 1h45min
-
-Estimated time spent on Debugging: 2h30min
-
-
-
+License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
