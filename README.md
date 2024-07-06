@@ -5,7 +5,7 @@
 
 
 
-Prerequisites:
+~Prerequisites:~
 
   Python 3.7+
   MySQL server running
