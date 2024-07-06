@@ -22,6 +22,12 @@ python run.py
 
 or
 
+<div style="border:1px solid black; padding:10px; font-size:90%;">
+    <ul>
+        <li>Python 3.7 or higher</li>
+        <li>MySQL server running</li>
+    </ul>
+</div>
 
 uvicorn app.main:app --reload
 
