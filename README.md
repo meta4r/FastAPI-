@@ -1,35 +1,23 @@
 Task411: Secure REST API with Database Integration
 
-This project implements a secure REST API with integrated database support using Python 3.7+ and MySQL.
+
 Prerequisites
-
-Before you begin, ensure you have the following installed:
-
     Python 3.7 or higher
     MySQL server running
 
 Install dependencies:
-
     pip install -r requirements.txt
 
 Running the Application
-
 To run the application, use the following command:
-
 Run the run.py 
-
 or 
-
 uvicorn app.main:app --reload
 
 
 Running Test(s)
-
 use the following command:
-
 python -m pytest test/test.py
-
-
 
 
 Test Results:
