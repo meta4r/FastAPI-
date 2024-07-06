@@ -1,4 +1,4 @@
-Task: Secure REST API with Database Integration
+Task: Secure FastApi Python Integrated with MYSQL
 
 Prerequisites
 
