@@ -14,6 +14,10 @@ Running the Application
 
 use the following command(s):
 
+Running the Application
+
+To run the application, use the following command:
+
 python run.py
 
 or
@@ -24,7 +28,11 @@ Running Tests
 
 To run the tests, use the following command:
 
+
 python -m pytest test/test.py
+
+
+
 
 Test Results
 
