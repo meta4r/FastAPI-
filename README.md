@@ -5,8 +5,10 @@ Prerequisites
     Python 3.7 or higher
     MySQL server running
 
+
 Install dependencies:
     pip install -r requirements.txt
+
 
 Running the Application
 To run the application, use the following command:
@@ -24,7 +26,10 @@ Test Results:
 
 ![teeeeest](https://github.com/meta4r/Task411/assets/123734096/5505bff6-f73d-4ff1-86ad-ef8759e681a7)
 
+
+
 Estimate time for Reading Documentation & Coding: 1h45min
+
 Estimated time spent on Debugging: 2h30min
 
 
