@@ -3,7 +3,13 @@ Prerequisites
 
     Python 3.7 or higher
     MySQL server running
-
+    
+<div style="border:1px solid black; padding:10px; font-size:90%;">
+    <ul>
+        <li>Python 3.7 or higher</li>
+        <li>MySQL server running</li>
+    </ul>
+</div>
 
 Install Dependencies
 
