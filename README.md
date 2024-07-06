@@ -2,8 +2,8 @@ Task: Secure REST API with Database Integration
 
 Prerequisites
 
-    Python 3.7 or higher
-    MySQL server running
+    Python 3.7+
+    MySQL server 
     
 
 Install Dependencies
