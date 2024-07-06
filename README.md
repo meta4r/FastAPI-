@@ -1,36 +1,39 @@
-# Task411
-# Implementation of a Secure REST API with Database Integration
+Task411: Secure REST API with Database Integration
 
+This project implements a secure REST API with integrated database support using Python 3.7+ and MySQL.
+Prerequisites
 
+Before you begin, ensure you have the following installed:
 
+    Python 3.7 or higher
+    MySQL server running
 
+Installation
 
-~Prerequisites:~
+    Clone the repository:
 
-  Python 3.7+
-  MySQL server running
-
-
-
-
+git clone https://github.com/yourusername/Task411.git
+cd Task411
 
 Install dependencies:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
+Running the Application
 
-
-
-
-Run app:
+To run the application, use the following command:
 
 uvicorn app.main:app --reload
 
+Running Tests
 
+To run the tests, use the following command:
 
+python -m pytest test/test.py
 
+Contributing
 
-Run test(s):
+Contributions are welcome! Please read the contributing guidelines to get started.
+License
 
-  python -m pytest test/test.py
-
+This project is licensed under the MIT License - see the LICENSE file for details.
