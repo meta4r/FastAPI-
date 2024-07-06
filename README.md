@@ -18,25 +18,18 @@ Running the Application
 
 To run the application, use the following command:
 
-python run.py
+>python run.py
 
 or
 
-<div style="border:1px solid black; padding:10px; font-size:90%;">
-    <ul>
-        <li>Python 3.7 or higher</li>
-        <li>MySQL server running</li>
-    </ul>
-</div>
-
-uvicorn app.main:app --reload
+?uvicorn app.main:app --reload
 
 Running Tests
 
 To run the tests, use the following command:
 
 
-python -m pytest test/test.py
+> python -m pytest test/test.py
 
 
 
