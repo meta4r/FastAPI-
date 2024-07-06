@@ -6,7 +6,7 @@ Prerequisites
 
 Install Dependencies
 
-sh
+bash
 
 pip install -r requirements.txt
 
@@ -14,29 +14,32 @@ Running the Application
 
 To run the application, use the following command:
 
+bash
+
 python run.py
 
 or
 
-uvicorn app.main:app --reload
+bash
 
+uvicorn app.main:app --reload
 
 Running Tests
 
-To run tests, use the following command:
+To run the tests, use the following command:
 
-sh
+bash
 
 python -m pytest test/test.py
 
-Test Results:
+Test Results
 
 teeeeest
 
-Time Estimates
+Estimated Time
 
-    Reading Documentation & Coding: 1 hour 45 minutes
-    Debugging: 2 hours 30 minutes
+    Reading Documentation & Coding: 1h 45min
+    Debugging: 2h 30min
 
 License
 
