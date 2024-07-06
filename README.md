@@ -36,5 +36,6 @@ Test Results
 
 Estimated Time
 
-        Reading Documentation & Coding: 1h 45min
-        Debugging: 2h 30min
+        Reading Documentation & Coding: 2h 45min
+        Debugging: 1h 20min
+        
