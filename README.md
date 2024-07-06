@@ -27,8 +27,6 @@ To run the test(s), use the following command:
 > python -m pytest test/test.py
 
 
-
-
 Test Results
 
 
@@ -36,18 +34,7 @@ Test Results
 
 
 
-
 Estimated Time
 
         Reading Documentation & Coding: 1h 45min
         Debugging: 2h 30min
-
-
-
-
-
-
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
