@@ -7,22 +7,16 @@ Prerequisites
 
 Install Dependencies
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 
 Running the Application
 
-use the following command(s):
-
-Running the Application
-
-To run the application, use the following command:
-
->python run.py
+> python run.py
 
 or
 
-?uvicorn app.main:app --reload
+> uvicorn app.main:app --reload
 
 Running Tests
 
@@ -42,12 +36,16 @@ Test Results
 
 
 
-
-
 Estimated Time
 
         Reading Documentation & Coding: 1h 45min
         Debugging: 2h 30min
+
+
+
+
+
+
 
 License
 
